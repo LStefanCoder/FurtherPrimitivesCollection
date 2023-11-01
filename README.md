@@ -4,7 +4,7 @@ This addon adds a submenu to the Add -> Add Mesh menu in Blender, where the user
 
 ## Use
 
-The furtherprimitvescollecition.py file should be installed separately, not as a zip file. Open the Add Menu in object mode, and go to "Add mesh", where there is an additional menu item at the bottom: "Further primitives". This item contains nine options.
+The furtherprimitivescollecition.py file should be installed separately, not as a zip file. Open the Add Menu in object mode, and go to "Add mesh", where there is an additional menu item at the bottom: "Further primitives". This item contains nine options.
 
 ## Options
 
