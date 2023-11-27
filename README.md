@@ -1,6 +1,6 @@
 # FurtherPrimitivesCollection
 
-This addon adds a submenu to the Add -> Add Mesh menu in Blender, where the user can add additional mesh and curve types to the scene. Developed on Blender version 3.6.5. 
+This addon adds a submenu to the Add -> Add Mesh menu in Blender, where the user can add additional mesh and curve types to the scene. Developed on Blender version 3.6.5. The latest version can be downloaded under https://github.com/LStefanCoder/FurtherPrimitivesCollection.
 
 ## Use
 
